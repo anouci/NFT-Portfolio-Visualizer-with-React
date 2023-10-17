@@ -2,7 +2,7 @@
 
 Easily visualize all your ERC721 NFT holdings across multiple chains using this React-powered interactive dashboard.
 
-![NFT/React/Mobula Logo](https://path_to_logo_image.png)
+![NFT/React/Mobula Logo](https://i.imgur.com/3SxO3mm.png)
 
 ---
 
